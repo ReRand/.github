@@ -1,6 +1,6 @@
 <table><tr><td>
   
-## RICOSHOT
+## RICOSHOT [WIP]
 
 A first person multiplayer shooter inspired by Arsi "Hakita" Patala's <br>indie hit *'ULTRAKILL'*, built around fun movement mechanics and epic style
 
@@ -12,6 +12,7 @@ A first person multiplayer shooter inspired by Arsi "Hakita" Patala's <br>indie 
   
 </td></tr></table>
 
+<br>
 
 <table><tr><td>
   
