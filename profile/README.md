@@ -21,7 +21,7 @@ A first person sit-and-survive horror game where the player<br>must fend off cul
 
 The open source developer toolkit used in ReRand Roblox games
 
-<a href="https://github.com/ReRand/RbxRevared"><img height=125 src="https://github.com/ReRand/RbxRevared/blob/main/Assets/Revared.png?raw=true" alt="Banner">
+<a href="https://github.com/ReRand/RbxRevared"><img height=100 src="https://github.com/ReRand/RbxRevared/blob/main/Assets/Revared.png?raw=true" alt="Banner">
 
 </td><td>
 
