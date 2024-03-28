@@ -1,5 +1,21 @@
 <table><tr><td>
   
+## Revared
+
+The open source developer toolkit used in ReRand Roblox games
+
+<a href="https://github.com/ReRand/RbxRevared"><img height=150 src="" alt="Banner">
+
+</td><td>
+
+<a href="https://github.com/ReRand/RbxRevared"><img height=200 src="" alt="Icon">
+  
+</td></tr></table>
+
+
+
+<table><tr><td>
+  
 ## RENTED 🍔 
 
 A first person sit-and-survive horror game where the player<br>must fend off cultists in a rundown burger restaurant
