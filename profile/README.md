@@ -4,7 +4,7 @@
 
 The open source developer toolkit used in ReRand Roblox games
 
-<a href="https://github.com/ReRand/RbxRevared"><img height=150 src="https://github.com/ReRand/RbxRevared/blob/main/Assets/Revared.png?raw=true" alt="Banner">
+<a href="https://github.com/ReRand/RbxRevared"><img height=125 src="https://github.com/ReRand/RbxRevared/blob/main/Assets/Revared.png?raw=true" alt="Banner">
 
 </td></tr></table>
 
