@@ -1,6 +1,6 @@
 <table><tr><td>
   
-## Revared 🔻
+## Revared
 
 The open source developer toolkit used in ReRand Roblox games
 
