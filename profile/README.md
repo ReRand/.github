@@ -4,6 +4,8 @@
 
 A first person sit-and-survive horror game where the player must<br>fend off cultists and spirits in a rundown burger restaurant
 
+[repo](https://github.com/ReRand/RENTED)
+
 <a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="https://tr.rbxcdn.com/049a08fff43d029c81bdaff3c228d61a/768/432/Image/Png" alt="Banner">
 
 </td><td>
@@ -21,6 +23,8 @@ A first person sit-and-survive horror game where the player must<br>fend off cul
 
 The open source developer toolkit used in ReRand Roblox games
 
+[repo](https://github.com/ReRand/Revared)
+
 <a href="https://github.com/ReRand/RbxRevared"><img height=100 src="https://github.com/ReRand/RbxRevared/blob/main/Assets/Revared.png?raw=true" alt="Banner">
 
 </td><td>
@@ -37,6 +41,8 @@ The open source developer toolkit used in ReRand Roblox games
 ## RICOSHOT [WIP]
 
 A first person multiplayer shooter inspired by Arsi "Hakita" Patala's <br>indie hit *'ULTRAKILL'*, built around fun movement mechanics and epic style
+
+[repo](https://github.com/ReRand/RICOSHOT)
 
 <a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="" alt="Banner">
 
