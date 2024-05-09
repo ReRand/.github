@@ -38,11 +38,11 @@ The open source developer toolkit used in ReRand Roblox games
 
 <table><tr><td>
   
-## RICOSHOT [WIP]
+## ACE-ULTRA 🦾 [WIP]
 
-A first person multiplayer shooter inspired by Arsi "Hakita" Patala's <br>indie hit *'ULTRAKILL'*, built around fun movement mechanics and epic style
+A first person multiplayer PVP shooter inspired by Arsi "Hakita" Patala's <br>indie hit *'ULTRAKILL'*, built around fun movement mechanics and epic style
 
-[repo](https://github.com/ReRand/RICOSHOT)
+[repo](https://github.com/ReRand/ACE-ULTRA)
 
 <a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="" alt="Banner">
 
