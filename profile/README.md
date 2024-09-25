@@ -10,7 +10,7 @@ A first person sit-and-survive horror game where the player must<br>fend off cul
 
 </td><td>
 
-<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=200 src="https://tr.rbxcdn.com/23753ccabc7d15eb38dfe8e06fceae2a/150/150/Image/Png" alt="Icon">
+<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=200 src="https://tr.rbxcdn.com/0e604377a6ff844a3c55c745900db0b1/256/256/Image/Png" alt="Icon">
   
 </td></tr></table>
 
@@ -38,16 +38,16 @@ The open source developer toolkit used in ReRand Roblox games
 
 <table><tr><td>
   
-## ACE-ULTRA 🦾 [WIP]
+## ACE-ULTRA
 
 A first person multiplayer PVP shooter inspired by Arsi "Hakita" Patala's <br>indie hit *'ULTRAKILL'*, built around fun movement mechanics and epic style
 
 [repo](https://github.com/ReRand/ACE-ULTRA)
 
-<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="" alt="Banner">
+<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="https://tr.rbxcdn.com/b70cc1610d98decf93f9f21e8408f675/768/432/Image/Png" alt="Banner">
 
 </td><td>
 
-<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=200 src="" alt="Icon">
+<a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=200 src="https://tr.rbxcdn.com/038d2bc3185d0102cad5f1550910914c/256/256/Image/Png" alt="Icon">
   
 </td></tr></table>
