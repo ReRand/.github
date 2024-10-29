@@ -16,6 +16,8 @@ We're a small indie studio working on making fun roblox games<br>
 - [Discord Server](https://discord.gg/NGGnVZaEtE)
 - [YouTube Channel](https://youtube.com/@rerandstudios)
 
+<br>
+
 Below you can see a list of the games and projects we're actively working on<br>
 many of them are open source games that allow you to see the secrets and quirks of our work so enjoy!
 
