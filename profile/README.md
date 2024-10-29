@@ -13,6 +13,7 @@ We're a small indie studio working on making fun roblox games<br>
 
 - [Patreon](https://patreon.com/ReRandStudios)
 - [Roblox Group](https://roblox.com/groups/14978206/ReRand)
+- [Twitter](https://twitter.com/ReRandStudios)
 - [Discord Server](https://discord.gg/NGGnVZaEtE)
 - [YouTube Channel](https://youtube.com/@rerandstudios)
 
