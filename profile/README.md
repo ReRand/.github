@@ -1,3 +1,21 @@
+<table>
+<tr><td>
+      
+<a href=""><img height=125 src="https://github.com/ReRand/.github/blob/main/assets/rerand.gif" alt="logo animation">
+
+
+</td><td>
+
+# Welcome!
+### To the ReRand Studios Github!<br>
+We're a small indie studio working on making fun roblox games<br>
+
+Below you can see a list of the games and projects we're actively working on<br>
+many of them are open source games that allow you to see the secrets and quirks of our work so enjoy!
+
+</td></tr></table>
+
+
 <table><tr><td>
   
 ## RENTED 🍔 
