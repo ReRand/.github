@@ -7,7 +7,7 @@
 </td><td>
 
 # Welcome!
-### To the ReRand Studios Github!<br>
+### To the ReRAND STUDIOS GitHub!<br>
 We're a small indie studio working on making fun roblox games<br>
 
 
