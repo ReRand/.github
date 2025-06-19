@@ -27,9 +27,9 @@ many of them are open source games that allow you to see the secrets and quirks 
 
 <table><tr><td>
   
-## RENTED 🍔 
+## RENTED
 
-A first person sit-and-survive horror game where the player must<br>fend off cultists and spirits in a rundown burger restaurant
+First person free roam psychological horror game
 
 [repo](https://github.com/ReRand/RENTED)
 
